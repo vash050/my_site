@@ -1,0 +1,857 @@
+
+ 
+Aves (Птицы)
+ 
+Anseriformes (Гусеобразные)
+1
+Anatidae 
+Утиные
+Anas acuta L.
+Шилохвость
+2
+Anatidae 
+Утиные
+Anas crecca L.
+Чирок-свистунок
+3
+Anatidae 
+Утиные
+Anas penelope L.
+Свиязь
+4
+Anatidae 
+Утиные
+Anas platyrhynchos L.
+Кряква
+5
+Anatidae 
+Утиные
+Anser erythropus (L.)
+Пискулька
+6
+Anatidae 
+Утиные
+Anser fabalis (Lath.)
+Гуменник
+7
+Anatidae 
+Утиные
+Aythya fuligula (L.)
+Хохлатая чернеть
+8
+Anatidae 
+Утиные
+Bucephala clangula (L.)
+Обыкновенный гоголь
+9
+Anatidae 
+Утиные
+Cygnus columbianus bewickii Yarrell, 1830
+Малый, или тундровый лебедь
+10
+Anatidae 
+Утиные
+Cygnus cygnus (L.)
+Лебедь-кликун
+11
+Anatidae 
+Утиные
+Mergellus albellus (Linnaeus, 1758)
+Луток
+12
+Anatidae 
+Утиные
+Mergus merganser L.
+Большой крохаль
+13
+Anatidae 
+Утиные
+Mergus serrator L.
+Длинноносый крохаль
+ 
+Apodiformes (Стрижеобразные)
+14
+Apodidae 
+Стрижи
+Apus apus (Linnaeus, 1758)
+Черный стриж
+ 
+Caprimulgiformes (Козодоеобразные)
+15
+Caprimulgidae 
+Настоящие козодои
+Caprimulgus europaeus Linnaeus, 1758
+Обыкновенный козодой
+ 
+Charadriiformes (Ржанкообразные)
+16
+Charadriidae 
+Ржанковые
+Charadrius dubius Scop.
+Малый зуек
+17
+Charadriidae 
+Ржанковые
+Pluvialis apricaria (Linnaeus, 1758)
+Золотистая ржанка
+18
+Charadriidae 
+Ржанковые
+Vanellus vanellus (Linnaeus, 1758)
+Чибис
+19
+Laridae 
+Чайковые
+Chroicocephalus ridibundus (Linnaeus, 1766)
+Обыкновенная чайка
+20
+Laridae 
+Чайковые
+Larus argentatus Pontoppidan, 1763
+Серебристая чайка
+21
+Laridae 
+Чайковые
+Larus canus L.
+Сизая чайка
+22
+Laridae 
+Чайковые
+Larus fuscus L.
+Клуша
+23
+Laridae 
+Чайковые
+Sterna hirundo L.
+Речная крачка
+24
+Laridae 
+Чайковые
+Sterna paradisaea Pontopp.
+Полярная крачка
+25
+Scolopacidae 
+Бекасовые
+Actitis hypoleucos (L.)
+Перевозчик
+26
+Scolopacidae 
+Бекасовые
+Calidris alpina (L.)
+Чернозобик
+27
+Scolopacidae 
+Бекасовые
+Calidris minuta (Leisler, 1812)
+Кулик-воробей
+28
+Scolopacidae 
+Бекасовые
+Calidris temminckii (Leisl.)
+Белохвостый песочник
+29
+Scolopacidae 
+Бекасовые
+Gallinago gallinago (L.)
+Бекас
+30
+Scolopacidae 
+Бекасовые
+Limosa lapponica (L.)
+Малый веретенник
+31
+Scolopacidae 
+Бекасовые
+Limosa limosa (L.)
+Большой веретенник
+32
+Scolopacidae 
+Бекасовые
+Lymnocryptes minimus (Brunn.)
+Гаршнеп
+33
+Scolopacidae 
+Бекасовые
+Numenius arquata (L.)
+Большой кроншнеп
+34
+Scolopacidae 
+Бекасовые
+Numenius phaeopus (Linnaeus, 1758)
+Средний кроншнеп
+35
+Scolopacidae 
+Бекасовые
+Philomachus pugnax (L.)
+Турухтан
+36
+Scolopacidae 
+Бекасовые
+Scolopax rusticola L.
+Вальдшнеп
+37
+Scolopacidae 
+Бекасовые
+Tringa erythropus (Pallas, 1764)
+Щеголь
+38
+Scolopacidae 
+Бекасовые
+Tringa glareola L.
+Фифи
+39
+Scolopacidae 
+Бекасовые
+Tringa nebularia (Gunn.)
+Большой улит
+40
+Scolopacidae 
+Бекасовые
+Tringa ochropus L.
+Черныш
+41
+Scolopacidae 
+Бекасовые
+Tringa totanus (L.)
+Травник
+42
+Scolopacidae 
+Бекасовые
+Xenus cinereus (Guld.)
+Мородунка
+ 
+Columbiformes (Голубеобразные)
+43
+Columbidae 
+Голубиные
+Columba livia Gmelin, JF, 1789
+Сизый голубь
+44
+Columbidae 
+Голубиные
+Columba palumbus L.
+Вяхирь
+ 
+Cuculiformes (Кукушкообразные)
+45
+Cuculidae 
+Кукушковые
+Cuculus canorus L.
+Обыкновенная кукушка
+ 
+Falconiformes (Соколообразные)
+46
+Accipitridae 
+Ястребиные
+Accipiter gentilis (L.)
+Тетеревятник
+47
+Accipitridae 
+Ястребиные
+Accipiter nisus (L.)
+Ястреб-перепелятник, или перепелятник
+48
+Accipitridae 
+Ястребиные
+Aquila chrysaetos (Linnaeus, 1758)
+Беркут
+49
+Accipitridae 
+Ястребиные
+Buteo buteo (L.)
+Обыкновенный канюк
+50
+Accipitridae 
+Ястребиные
+Buteo lagopus (Pontopp.)
+Мохноногий канюк, или зимняк
+51
+Accipitridae 
+Ястребиные
+Circus cyaneus (L.)
+Полевой лунь
+52
+Accipitridae 
+Ястребиные
+Haliaeetus albicilla (L.)
+Орлан белохвост
+53
+Accipitridae 
+Ястребиные
+Milvus migrans (Bodd.)
+Черный коршун
+54
+Accipitridae 
+Ястребиные
+Pandion haliaetus (L.)
+Скопа
+55
+Accipitridae 
+Ястребиные
+Pernis apivorus (L.)
+Обыкновенный осоед
+56
+Falconidae 
+Соколиные
+Falco columbarius L.
+Дербник
+57
+Falconidae 
+Соколиные
+Falco peregrinus Tunst.
+Сапсан
+58
+Falconidae 
+Соколиные
+Falco subbuteo L.
+Чеглок
+59
+Falconidae 
+Соколиные
+Falco tinnunculus L.
+Обыкновенная пустельга
+ 
+Galliformes (Курообразные)
+60
+Phasianidae 
+Фазановые
+Lagopus lagopus (L.)
+Белая куропатка
+61
+Phasianidae 
+Фазановые
+Lyrurus tetrix (L.)
+Косач
+62
+Phasianidae 
+Фазановые
+Tetrao urogallus L.
+Глухарь
+63
+Phasianidae 
+Фазановые
+Tetrastes bonasia (Linnaeus, 1758)
+Рябчик
+ 
+Gaviiformes (Гагарообразные)
+64
+Gaviidae 
+Гагаровые
+Gavia arctica (L.)
+Чернозобая гагара
+65
+Gaviidae 
+Гагаровые
+Gavia stellata (Pontopp.)
+Краснозобая гагара
+ 
+Gruiformes (Журавлеобразные)
+66
+Gruidae 
+Журавлиные
+Grus grus (L.)
+Серый журавль
+ 
+Passeriformes (Воробьинообразные)
+67
+Acrocephalidae 
+ 
+Acrocephalus dumetorum Blyth, 1849
+Садовая камышовка
+68
+Acrocephalidae 
+ 
+Acrocephalus schoenobaenus (Linnaeus, 1758)
+Камышевка-барсучок
+69
+Aegithalidae 
+Длиннохвостые синицы
+Aegithalos caudatus (L.)
+Длиннохвостая синица
+70
+Alaudidae 
+Жаворонковые
+Alauda arvensis L.
+Полевой жаворонок
+71
+Alaudidae 
+Жаворонковые
+Eremophila alpestris (L.)
+Рогатый жаворонок
+72
+Bombycillidae 
+Свиристелевые
+Bombycilla garrulus (L.)
+Свиристель
+73
+Certhiidae 
+Пищуховые
+Certhia familiaris L.
+Обыкновенная пищуха
+74
+Cinclidae 
+Оляпковые
+Cinclus cinclus (L.)
+Обыкновенная оляпка
+75
+Corvidae 
+Врановые
+Corvus corax L.
+Ворон
+76
+Corvidae 
+Врановые
+Corvus cornix Linnaeus, 1758
+Серая ворона
+77
+Corvidae 
+Врановые
+Corvus frugilegus L.
+Грач
+78
+Corvidae 
+Врановые
+Corvus monedula Linnaeus, 1758
+Галка
+79
+Corvidae 
+Врановые
+Garrulus glandarius (L.)
+Сойка
+80
+Corvidae 
+Врановые
+Nucifraga caryocatactes (L.)
+Кедровка, или ореховка
+81
+Corvidae 
+Врановые
+Perisoreus infaustus (L.)
+Кукша
+82
+Corvidae 
+Врановые
+Pica pica (L.)
+Сорока
+83
+Emberizidae 
+Овсянковые
+Emberiza aureola Pallas, 1773
+Дубровник
+84
+Emberizidae 
+Овсянковые
+Emberiza citrinella Linnaeus, 1758
+Обыкновенная овсянка
+85
+Emberizidae 
+Овсянковые
+Emberiza pusilla Pallas, 1776
+Овсянка-крошка
+86
+Emberizidae 
+Овсянковые
+Emberiza rustica Pallas, 1776
+Овсянка-ремез
+87
+Emberizidae 
+Овсянковые
+Emberiza schoeniclus (L.)
+Тростниковая овсянка
+88
+Fringillidae 
+Вьюрковые
+Carduelis cannabina (Linnaeus, 1758)
+Коноплянка
+89
+Fringillidae 
+Вьюрковые
+Carduelis carduelis (Linnaeus, 1758)
+Черноголовый щегол
+90
+Fringillidae 
+Вьюрковые
+Carduelis chloris (Linnaeus, 1758)
+Зеленушка
+91
+Fringillidae 
+Вьюрковые
+Carduelis flammea (Linnaeus, 1758)
+Обыкновенная чечетка
+92
+Fringillidae 
+Вьюрковые
+Carduelis spinus (Linnaeus, 1758)
+Чиж
+93
+Fringillidae 
+Вьюрковые
+Carpodacus erythrinus (Pall.)
+Обыкновенная чечевица
+94
+Fringillidae 
+Вьюрковые
+Fringilla coelebs Linnaeus, 1758
+Зяблик
+95
+Fringillidae 
+Вьюрковые
+Fringilla montifringilla L.
+Юрок
+96
+Fringillidae 
+Вьюрковые
+Loxia curvirostra Linnaeus, 1758
+Обыкновенный клест
+97
+Fringillidae 
+Вьюрковые
+Loxia leucoptera Gm.
+Белокрылый клёст
+98
+Fringillidae 
+Вьюрковые
+Loxia pytyopsittacus Borkhausen, 1793
+Клест-сосновик
+99
+Fringillidae 
+Вьюрковые
+Pinicola enucleator (L.)
+Щур
+100
+Fringillidae 
+Вьюрковые
+Pyrrhula pyrrhula (L.)
+Обыкновенный снегирь
+101
+Hirundinidae 
+Ласточковые
+Delichon urbicum (Linnaeus, 1758)
+Воронок
+102
+Hirundinidae 
+Ласточковые
+Hirundo rustica L.
+Деревенская ласточка
+103
+Hirundinidae 
+Ласточковые
+Riparia riparia (L.)
+Береговая ласточка
+104
+Laniidae 
+Сорокопутовые
+Lanius collurio Linnaeus, 1758
+Обыкновенный жулан
+105
+Laniidae 
+Сорокопутовые
+Lanius excubitor L.
+Серый сорокопут
+106
+Motacillidae 
+Трясогузковые
+Anthus cervinus (Pall.)
+Краснозобый конёк
+107
+Motacillidae 
+Трясогузковые
+Anthus pratensis (Linnaeus, 1758)
+Луговой конек
+108
+Motacillidae 
+Трясогузковые
+Anthus spinoletta (Linnaeus, 1758)
+Горный конек
+109
+Motacillidae 
+Трясогузковые
+Anthus trivialis (L.)
+Лесной конек
+110
+Motacillidae 
+Трясогузковые
+Motacilla alba L.
+Белая трясогузка
+111
+Motacillidae 
+Трясогузковые
+Motacilla flava Linnaeus, 1758
+Желтая трясогузка
+112
+Muscicapidae 
+Мухоловковые
+Erithacus rubecula (Linnaeus, 1758)
+Зарянка
+113
+Muscicapidae 
+Мухоловковые
+Ficedula hypoleuca (Pallas, 1764)
+Мухоловка-пеструшка
+114
+Muscicapidae 
+Мухоловковые
+Ficedula parva (Bechstein, 1792)
+Малая мухоловка
+115
+Muscicapidae 
+Мухоловковые
+Luscinia cyanura (Pallas, 1773)
+Синехвостка
+116
+Muscicapidae 
+Мухоловковые
+Luscinia svecica (L.)
+Варакушка
+117
+Muscicapidae 
+Мухоловковые
+Muscicapa striata (Pallas, 1764)
+Серая мухоловка
+118
+Muscicapidae 
+Мухоловковые
+Oenanthe oenanthe (Linnaeus, 1758)
+Обыкновенная каменка
+119
+Muscicapidae 
+Мухоловковые
+Phoenicurus phoenicurus (L.)
+Обыкновенная горихвостка
+120
+Muscicapidae 
+Мухоловковые
+Saxicola rubetra (Linnaeus, 1758)
+Луговой чекан
+121
+Muscicapidae 
+Мухоловковые
+Saxicola rubicola (Linnaeus, 1766)
+Черноголовый чекан
+122
+Paridae 
+Синицевые
+Cyanistes caeruleus (Linnaeus, 1758)
+Лазоревка
+123
+Paridae 
+Синицевые
+Lophophanes cristatus (Linnaeus, 1758)
+Хохлатая синица
+124
+Paridae 
+Синицевые
+Parus major Linnaeus, 1758
+Большая синица
+125
+Paridae 
+Синицевые
+Periparus ater (Linnaeus, 1758)
+Московка
+126
+Paridae 
+Синицевые
+Poecile cinctus (Boddaert, 1783)
+Гаичка сероголовая
+127
+Paridae 
+Синицевые
+Poecile montanus (Conrad, 1827)
+Буроголовая гаичка
+128
+Passeridae 
+Воробьиные
+Passer domesticus (L.)
+Домовой воробей
+129
+Passeridae 
+Воробьиные
+Passer montanus (L.)
+Полевой воробей
+130
+Prunellidae 
+Завирушковые
+Prunella modularis (Linnaeus, 1758)
+Лесная завирушка
+131
+Regulidae 
+Корольковые
+Regulus regulus (Linnaeus, 1758)
+Желтоголовый королек
+132
+Sturnidae 
+Скворцовые
+Sturnus vulgaris L.
+Обыкновенный скворец
+133
+Sylviidae 
+Славковые
+Hippolais icterina (Vieillot, 1817)
+Зеленая пересмешка
+134
+Sylviidae 
+Славковые
+Locustella fluviatilis (Wolf, 1810)
+Речной сверчок
+135
+Sylviidae 
+Славковые
+Locustella naevia (Boddaert, 1783)
+Обыкновенный сверчок
+136
+Sylviidae 
+Славковые
+Phylloscopus borealis (Blas.)
+Пеночка-таловка
+137
+Sylviidae 
+Славковые
+Phylloscopus collybita (Vieill.)
+Пеночка-теньковка
+138
+Sylviidae 
+Славковые
+Phylloscopus sibilatrix (Bechstein, 1793)
+Пеночка-трещётка
+139
+Sylviidae 
+Славковые
+Phylloscopus trochiloides (Sund.)
+Зелёная пеночка
+140
+Sylviidae 
+Славковые
+Phylloscopus trochilus (L.)
+Пеночка-весничка
+141
+Sylviidae 
+Славковые
+Sylvia atricapilla (Linnaeus, 1758)
+Черноголовая славка
+142
+Sylviidae 
+Славковые
+Sylvia borin (Boddaert, 1783)
+Садовая славка
+143
+Sylviidae 
+Славковые
+Sylvia communis Latham, 1787
+Серая славка
+144
+Sylviidae 
+Славковые
+Sylvia curruca (Linnaeus, 1758)
+Славка-завирушка
+145
+Troglodytidae 
+Крапивниковые
+Troglodytes troglodytes (L.)
+Крапивник
+146
+Turdidae 
+Дроздовые
+Turdus iliacus L.
+Белобровик
+147
+Turdidae 
+Дроздовые
+Turdus merula Linnaeus, 1758
+Чёрный дрозд
+148
+Turdidae 
+Дроздовые
+Turdus philomelos Brehm, CL, 1831
+Певчий дрозд
+149
+Turdidae 
+Дроздовые
+Turdus pilaris L.
+Рябинник
+150
+Turdidae 
+Дроздовые
+Turdus viscivorus Linnaeus, 1758
+Деряба
+
+Piciformes (Дятлообразные)
+ 151
+Picidae 
+Настоящие дятловые
+Dendrocopos major (L.)
+Пестрый дятел
+152
+Picidae 
+Настоящие дятловые
+Dendrocopos minor (L.)
+Малый дятел
+153
+Picidae 
+Настоящие дятловые
+Dryocopus martius (L.)
+Желна
+154
+Picidae 
+Настоящие дятловые
+Jynx torquilla L.
+Вертишейка
+155
+Picidae 
+Настоящие дятловые
+Picoides tridactylus (L.)
+Трёхпалый дятел
+156
+Picidae 
+Настоящие дятловые
+Picus canus Gmelin, 1788
+Седой дятел
+
+Podicipediformes (Поганкообразные) 
+ 157
+Podicipedidae 
+Поганковые
+Podiceps grisegena (Boddaert, 1783)
+Серощёкая поганка
+
+Strigiformes (Совообразные)
+ 158
+Strigidae 
+Настоящие совы
+Aegolius funereus (L.)
+Мохноногий сыч
+159
+Strigidae 
+Настоящие совы
+Asio flammeus (Pontopp.)
+Болотная сова
+160
+Strigidae 
+Настоящие совы
+Bubo bubo (L.)
+Филин
+161
+Strigidae 
+Настоящие совы
+Bubo scandiacus (Linnaeus, 1758)
+Белая сова
+162
+Strigidae 
+Настоящие совы
+Glaucidium passerinum (L.)
+Воробьиный сыч (сычик)
+163
+Strigidae 
+Настоящие совы
+Strix nebulosa Forst.
+Бородатая неясыть
+164
+Strigidae 
+Настоящие совы
+Strix uralensis Pall.
+Длиннохвостая неясыть
+165
+Strigidae 
+Настоящие совы
+Surnia ulula (L.)
+Ястребиная сова
+
